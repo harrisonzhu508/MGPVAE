@@ -1,6 +1,8 @@
 # MGPVAE
 This repository contains the code for the paper [Markovian Gaussian Process Variational Autoencoders](https://arxiv.org/pdf/2207.05543.pdf).
 
+The implementation is derived and modified from [BayesNewton](https://github.com/AaltoML/BayesNewton/tree/main).
+
 ## Requirements
 ```
 matplotlib
